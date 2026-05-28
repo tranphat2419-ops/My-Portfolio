@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Tôi là Trần Phát, hiện là sinh viên chuyên ngành Thiết kế và Quản lý Website tại Trường Trung cấp Kinh tế - Kỹ thuật Quận 12 (khóa 2024 - 2026). Tôi có niềm đam mê sâu sắc với lập trình và công nghệ, đặc biệt là hướng đi nghiên cứu các giải pháp Trí tuệ Nhân tạo (AI) ứng dụng.
         </p>
       </div>
     </div>
